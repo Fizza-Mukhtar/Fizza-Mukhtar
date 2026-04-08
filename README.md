@@ -42,17 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fizza-Mukhtar&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizza-Mukhtar&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🐍 Contribution Snake (because why not 😄)
 <p align="center">
   <img src="https://github.com/Fizza-Mukhtar/Fizza-Mukhtar/blob/output/github-contribution-grid-snake.svg" />

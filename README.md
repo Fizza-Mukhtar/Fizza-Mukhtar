@@ -29,10 +29,28 @@
 ---
 
 ### 🌟 Open Source Contributions
-- https://github.com/unslothai/unsloth/pull/3768
-- https://github.com/unslothai/unsloth/pull/3787
-- https://github.com/unslothai/unsloth/pull/3806
-- https://github.com/unslothai/unsloth/pull/3822
+#### 🔥 **Unsloth AI**
+Contributed feature enhancements and fixes:
+- [#3768](https://github.com/unslothai/unsloth/pull/3768)  
+- [#3787](https://github.com/unslothai/unsloth/pull/3787)  
+- [#3806](https://github.com/unslothai/unsloth/pull/3806)  
+- [#3822](https://github.com/unslothai/unsloth/pull/3822)  
+
+#### 🚀 **CUA (YC‑backed)**
+Merged Pull Requests improving core agent workflows:
+- [#706](https://github.com/trycua/cua/pull/706)  
+- [#711](https://github.com/trycua/cua/pull/711)  
+- [#792](https://github.com/trycua/cua/pull/792)  
+- [#803](https://github.com/trycua/cua/pull/803)  
+- [#808](https://github.com/trycua/cua/pull/808)  
+- [#844](https://github.com/trycua/cua/pull/844)  
+
+#### 💎 **Onyx**
+Contributed important features and bug fixes:
+- [#9267](https://github.com/onyx-dot-app/onyx/pull/9267)  
+- [#9224](https://github.com/onyx-dot-app/onyx/pull/9224)  
+- [#9192](https://github.com/onyx-dot-app/onyx/pull/9192)  
+- [#9191](https://github.com/onyx-dot-app/onyx/pull/9191) 
 
 ---
 

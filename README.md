@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Open source contributor to **YC-backed startups (CUA, Onyx)**
+- 💻 Open source contributor to **YC-backed startups (CUA, Onyx, Unsloth AI, Pangolin, Confident AI)**
 - 🧠 Passionate about **AI Agents, ML, and scalable systems**
 - 🌱 Currently working with **Next.js, React, and AI-based applications**
 - ⚡ I love building real-world products that solve meaningful problems
@@ -29,16 +29,10 @@
 ---
 
 ### 🌟 Open Source Contributions
-- 🔥 **CUA (YC Startup)**  
-  - Contributed to agent-based workflows and real product features  
-  - PRs merged in production-level code  
-
-- 🚀 **Onyx**  
-  - Worked on impactful features in a real-world AI system  
-
-👉 My Contributions:
-- https://github.com/trycua/cua/pull/706  
-- (add more links here)
+- https://github.com/unslothai/unsloth/pull/3768
+- https://github.com/unslothai/unsloth/pull/3787
+- https://github.com/unslothai/unsloth/pull/3806
+- https://github.com/unslothai/unsloth/pull/3822
 
 ---
 
@@ -57,9 +51,8 @@
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (optional)
-- 📧 Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/fizza-mukhtar-018759258/
+- 📧 Email: fizzamukhtar01@gmail.com
 
 ---
 
